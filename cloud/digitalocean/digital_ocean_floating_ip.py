@@ -24,7 +24,7 @@ module: digital_ocean_floating_ip
 short_description: Reserve/destroy or assign/unassign a floating ip in DigitalOcean
 description:
      - Reserve/destroy a floating ip in DigitalOcean, or assign/unnasign a floating ip to a droplet. 
-version_added: "2.1"
+version_added: "2.2"
 author: "Harnek Sidhu"
 options:
   command:
